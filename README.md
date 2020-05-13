@@ -39,4 +39,4 @@ npm i -g create-reason-react-tailwind
 crra
 ```
 
-Also see the [tailwind-ppx-demo](https://github.com/dylanirlbeck/tailwind-ppx-demo) using [tailwind-ppx](https://github.com/dylanirlbeck/tailwind-ppx) 
+Also see the [tailwind-ppx-demo](https://github.com/dylanirlbeck/tailwind-ppx-demo) using [tailwind-ppx](https://github.com/dylanirlbeck/tailwind-ppx).
